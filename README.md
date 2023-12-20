@@ -1,6 +1,5 @@
-# Ms3LcU-Net-
-paper: (A Multi-scale 3-stacked-Layer Coned U-Net framework for Liver Cancer Segmentation in Whole Slide Images )
+# Ms3LcU-Net
 
-by Heba Abdel-Nabi , Mostafa Z. Ali, Arafat Awajan
+Abdel-Nabi, H., Ali, M.Z. and Awajan, A., 2023. A multi-scale 3-stacked-layer coned U-net framework for tumor segmentation in whole slide images. Biomedical Signal Processing and Control, 86, p.105273.
 
-The code will be avaliable upon the acceptance of the paper.
+https://www.sciencedirect.com/science/article/abs/pii/S1746809423007061
